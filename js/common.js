@@ -8,9 +8,6 @@ SYUKOU.COMMON = {};
 
 SYUKOU.COMMON.FIXSIDEBAR = {
 
-	SCROLL_NUM : 600,
-	ANIMATE_SEC : 1000,
-
 	init : function(){
 		this.setParameters();
 		this.prepare();
