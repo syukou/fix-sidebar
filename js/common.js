@@ -18,7 +18,6 @@ SYUKOU.COMMON.FIXSIDEBAR = {
 	},
 	setParameters : function(){
 		this.$window = $(window);
-		this.htmlbody = $('html,body');
 		this.$sidebox = $('.jsc-sidebox');
 	},
 	prepare : function(){
